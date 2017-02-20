@@ -1,0 +1,7 @@
+{
+  "broker":{
+  	"type":"rabbitmq",
+        "host":"rabbit",
+  	"port":"5672"
+  }
+}
